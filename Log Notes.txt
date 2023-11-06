@@ -1,0 +1,4999 @@
+< PRIA WEBSITE HOMEPAGE DESIGN > 
+
+[ LOG NOTES ]
+
+
+
+06 / 19 / 23
+
+
+
+PRIA WEBSITE DESIGN:
+
+
+Designs to add:
+
+
+	> NAVIGATION [ DISPLAYED ]
+
+		> TOP NAVIGATION BAR [ DISPLAYED ]
+
+		> HOME BUTTON [ DISPLAYED ]
+
+		> ABOUT BUTTON [ DISPLAYED ]
+
+		> CONTACT BUTTON [ DISPLAYED ]
+
+		> LOGIN BUTTON [ DISPLAYED ]
+
+
+
+	> HOMEPAGE DESIGN [ ]
+
+		> PRIAxARC LOGO, TOP LEFT [ DISPLAYED ]
+
+
+
+		
+
+2:26 PM
+
+	> Take your time to adjust.
+
+
+
+
+5:05 PM
+
+
+	> Continuing the navigation bar tomorrow.
+
+
+
+
+6-20-23
+
+Time In: 8:08 AM
+
+
+1:16 PM
+
+	> Navigation Bar [ DISPLAYED ]
+
+
+
+Designs to add:
+
+
+	> NAVIGATION [ DISPLAYED ]
+
+		> TOP NAVIGATION BAR [ DISPLAYED ]
+
+		> HOME BUTTON [ DISPLAYED ]
+
+		> ABOUT BUTTON [ DISPLAYED ]
+
+		> CONTACT BUTTON [ DISPLAYED ]
+
+		> LOGIN BUTTON [ DISPLAYED ]
+
+
+
+	> HOMEPAGE DESIGN [ ]
+
+		> PRIAxARC LOGO, TOP LEFT [ DISPLAYED ]
+
+		> SLIDESHOW [ ]
+
+		> Meet the Tutors / Reviewers [ ]
+
+			> Card Slideshow [ ]
+
+				> Reviewers Image Slideshow [ ]
+
+				> Right Container / Div - Transitioning Information [ ]
+
+
+				---------------------------------------------------------------------------------------------------------------------------------------------------------
+				|						|						BACKGROUND INFORMATION					      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				|		PROFILE			|																	      |
+				|		   IMAGE			|																	      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+4:55 PM
+
+	> Continuing the designing of Homepage using figma tomorrow.
+
+
+	> Will clock out at 5 PM.
+
+
+Time Out: 5:00 PM
+
+
+
+06-21-23
+
+
+Time In: 8:25 AM
+
+
+Bring a spare mouse and keyboard tomorrow!
+
+
+Designs to add:
+
+
+	> NAVIGATION [ DISPLAYED ]
+
+		> TOP NAVIGATION BAR [ DISPLAYED ]
+
+		> HOME BUTTON [ DISPLAYED ]
+
+		> ABOUT BUTTON [ DISPLAYED ]
+
+		> CONTACT BUTTON [ DISPLAYED ]
+
+		> LOGIN BUTTON [ DISPLAYED ]
+
+
+
+	> HOMEPAGE DESIGN [ ]
+
+		> PRIAxARC LOGO, TOP LEFT [ DISPLAYED ]
+
+		> SLIDESHOW [ ]
+
+		> Meet the Tutors / Reviewers [ ]
+
+			> Card Slideshow [ ]
+
+				> Reviewers Image Slideshow [ ]
+
+				> Right Container / Div - Transitioning Information [ ]
+
+
+	>> CSS / Designs / Transitions / Animations to add:
+
+		>> Fade In and Fade Out cards [ ]
+
+		>> Sliding / Switching Information [ ]
+
+		>> Sliding Up Information when a user scrolls up [ ]
+
+
+				---------------------------------------------------------------------------------------------------------------------------------------------------------
+				|						|						BACKGROUND INFORMATION					      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				|		PROFILE			|																	      |
+				|		   IMAGE			|																	      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				|						|																	      |
+				---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	>> TASKS TO DO <<
+
+		> Design the homepage using figma [ ]
+
+
+
+
+8:43 AM
+
+
+	>> FOLDERS WITH PDAC IMAGES <<
+
+		> PDAC Center < FOLDER >
+
+		> Photoshop Candid < FOLDER >
+
+		> Photos November < FOLDER >
+
+		> Documents for KT < FOLDER >
+
+			> Websites < FOLDER >
+
+		> Christmas Party < FOLDER >
+
+		> DOCUMENTS for KT > Branding > Old Logo > PDAC LOGO
+
+
+
+
+
+1:01 PM
+
+
+	> Arranging the log from the meeting this late morning for now.
+
+	> Will get back to designing the homepage later.
+
+
+
+5:02 PM
+
+
+	> Attended a meeting / orientation / onboarding for new employees.
+
+	> Will resume the designing of the homepage tomorrow.
+
+	> Will also resume the revision of the Meeting Log.
+
+	> Will also create a score tabulation based off of the previous scoring mechanics.
+
+
+
+Time Out: 5:07 PM
+
+
+
+06-22-23
+
+
+Time In: 7:15 AM
+
+
+	> Will prioritize the designing of the homepage.
+
+	> Will follow up with the revision of the Meeting Log Notes.
+
+		> Meeting Log Notes [ DONE ]
+
+		> Will then create the scoring sheet using excel.
+
+		> Afterwards, have it checked by Mr. Arvin
+
+	> Design the Award, Certificates, and Tarpaulin templates for the Team Building.
+
+
+
+
+2:30 PM
+
+
+	> INFORMATION ABOUT THE NEXT CLASSES / TIMEFRAMES
+
+	> Powered by PDAC Tech > FOOTER < 
+
+
+
+4:48 PM
+
+	> Done with the base design of the homepage. Waiting for instructions for designs to change and designs to add.
+
+	> Done with the Certification of Participation template. Waiting for approval.
+
+		> Create more certificates for different categories.
+
+	> Finished an initial design for the Team Building Banner. Waiting for approval and instructions.
+
+
+	> Will be continuing the tasks next week.
+
+	> Will clock out by 5 PM, logging it now.
+
+
+
+Time Out: 5:00 PM
+
+
+
+
+
+06-26-23
+
+
+Time In: 7:27 AM
+
+
+
+NEW TASKS:
+
+	> Learn WordPress designing.
+
+	> PRIA Website Design:
+
+		> Create an overall design with a single page for the PRIA Homepage contents.
+
+		> Dropdown information for the planned content pages.
+
+		> Create a base design usign Figma and migrate it to WordPress.
+
+
+
+REMAINING TASKS:
+
+	> Different Categories for Certificates.
+
+		> Refer to the received documents.
+
+	> Create Scoring Sheets using excel.
+
+		> Refer to the received documents.
+
+	
+
+
+
+
+7:59 AM
+
+	> Finally found the application that's using the ctrl+shift+T for restoring tabs.
+
+
+
+8:36 AM
+
+
+
+WordPress: To-Learn features:
+
+	> Carousel / Sliding Gallery
+
+	> HREF / Links that brings you to the bottom or a part of a page.
+
+		> Anchor Links
+
+	> Previous and Next buttons
+
+	> Dropdown Information / Dropdown Container
+
+	> Containers / Buttons
+
+	> Headers and Footers
+
+	> Timeline Block ( PLUGIN )
+
+
+
+8:39 AM
+
+	> Until I receive a response and/or instructions for the templates, let's do another task first.
+
+
+
+
+
+	
+06-27-23
+
+
+
+Time In: 7:31 AM
+
+
+Tasks To Do:
+
+
+	> WordPress Homepage Designing
+
+		> 8:00 AM - 12:00 PM
+
+	> Scoring Sheet
+
+		> 1:00 PM - 5:00 PM
+
+	> Hopefully there aren't that many interruption this time.
+
+
+
+7:56 AM
+
+	> We'll start at 8 AM.
+
+
+
+11:54 PM
+
+
+To Learn:
+
+	> JavaScript / CSS / PHP - Hide Show Content / Div / Image and Content
+
+	> HTML / CSS Button ( IF POSSIBLE ) - JavaScript Backend ( IF FORMER IS NOT POSSIBLE W/O BACKEND )
+
+
+
+
+
+4:12 PM
+
+	> Will continue the Homepage tomorrow.
+
+	> Will create a scoring sheet now.
+
+
+
+
+How do I create a scoring sheet using excel that have three categories -- each with their own subcategories that will total to each categories total percentage. For example, pageant is 40% -- there are three categories that will total to 100 points and will convert to 40%. What will be the formula? 
+The formula that will give me the answer to, "what is the percentage of 75 points in 40%?" 
+
+The categories and the subcategories are as follows:
+
+Game Competition: 40%
+
+Pageant: 40%
+
+	> Casual Wear: 15 points
+
+	> Swim Wear: 15 points
+
+	> Formal Attire: 30 points
+
+	> Coin Bank: 20 points
+
+
+
+Chant and Flag Making: 20%
+
+	> Chant: 50%
+
+	> Flag: 50%
+
+	
+I have a scoring sheet with three categories:
+
+
+Game Category: 40%
+
+Pageant: 40%
+
+Chant and Flag: 20%
+
+The total of these categories is 100%.
+
+
+For the pageant: There will be subcatgories that will total to 100 points. If, say, I get 75 points in the pageant category, what will be the percentage of it in the 40% of the pageant category? And what will be the formula?
+
+=SUM(C39 / 100) * 0.4
+
+
+FORMULA:
+
+TP = Total Points
+
+(Cn TP / 60 ) * 0.4
+
+(75 / 100) * 40%
+
+Percentage = (Points / Total Points) * Weightage
+
+In this case, if you receive 75 points in the pageant category, you need to calculate the percentage of 75 points out of the total points in the pageant category. Let's assume the total points for the pageant category is 100.
+
+Percentage = (75 / 100) * 40
+
+Percentage = 0.75 * 40
+
+Percentage = 30
+
+
+Time Out: 5:08 PM
+
+
+C:\Users\PDAC Tech\Desktop\DESKTOP
+
+
+	> Mr. Carlos' saved documents and some stuff.
+
+
+
+
+06-28-23
+
+
+
+	> Will only do the excel scoring sheet for today.
+
+	> Specifically, the scoring sheet for the pageant.
+
+
+
+3:25 PM
+
+	> Will also complete some template for the certificates.
+
+
+
+
+9:02 PM
+
+	> Scoring Sheet for the Pageant is done. 
+
+	> Will design the certificate tomorrow.
+
+
+
+
+06-29-23
+
+
+Time In: 7:38 AM
+
+
+Tasks To Do:
+
+	> Continuation of WordPress PRIA - ARC Homepage Designing.
+
+	> Designing of the Templates ( PRIORITY, unless: circumstances )
+
+	> Have the Scoring Sheet Checked by Mr. Arvin
+
+
+
+
+9:03 AM
+
+
+	> Will be restartin the PC.
+
+	> File Explorer open tabs:
+
+		> PRIA
+		> Team Building 2023
+		> PDAC LOGO
+			> C:\Users\PDAC Tech\Desktop\DOCUMENTS for KT\Branding\Old Logos\PDAC LOGO
+
+	> Pageant Scoring Sheet
+
+
+9:24 AM
+
+	> Scoring Sheet
+
+		> The Total Percentage from (40%) will be accumulated from the Total Points that the Judges will give.
+
+
+			> Total Points from the Judges = TPJ
+
+			> Total Number of Judges = Jn
+
+			> Let's assume that the total number of judges is 3.
+
+			> Percentage = (TPJ / 100 [or Jn] ) * 40% 
+
+			> Percentage = (300 / 3 ) * 40 
+
+			> Percentage = 100 * 0.4
+
+			> Percentage = (75 / 100 [or 3]) * 40 %
+
+			> Percentage = 0.75 * 40 %
+
+			> Percentage = 30 %
+
+
+
+
+
+
+10:36 AM
+
+
+	> Features to add in PDAC Website
+
+		> LOGIN
+
+			> DASHBOARD
+
+				> BLOG STYLE
+
+				> Create a UI for:
+
+					> Uploading Image
+
+					> Uploading Text
+
+					> Deleting Articles
+
+			> Create, Update, Delete, Edit
+
+				> HTML, CSS
+
+				> Php, JavaScript
+
+
+11:32 AM
+
+
+	> That's a wrap up for the certificates and the scoring sheet.
+
+		> No response and no further instructions.
+
+
+	> Will later focus on PRIA Designing.
+
+	> Taking a break until lunch.
+
+
+
+11:45 AM
+
+	> Will be updating and restarting the desktop.
+
+
+
+
+11:52 AM
+
+	> Updated and Restarted.
+
+
+
+
+1:31 PM
+
+	> For some reason, MySQL can't establish a connection with my previously created database.
+
+	> The backup databases doesn't have the recently (some days ago) created database.
+
+	> Will halt trying for now. 
+
+	> Need to think.
+
+
+1:44 PM
+
+	> Since there is a problem with our MySQL and Php Localhost, let's do something else first.
+
+
+
+
+2:49 PM
+
+	> Halting the recovery of WordPress for now.
+
+	> Will ask for help tomorrow regarding the XAMPP and MySQL.
+
+
+
+
+4:47 PM
+
+	> Will clock out at 5:00 PM
+
+	> Logging the time here now.
+
+	> Will continue the form trial tomorrow.
+
+	> WIll try to fix the WordPress issue tomorrow.
+
+	> Will try to continue the Scoring Sheet and Certificates tomorrow.
+
+		> If further instructions are provided.
+
+
+Time Out: 5:00 PM
+
+
+
+
+07-01-23
+
+
+9:23 AM
+
+
+	> Will follow up with the tasks tomorrow.
+
+
+
+
+
+07-02-23
+
+
+Time: 2:47 PM
+
+
+	> Will try to fix the XAMPP error and recover my WordPress Progress. D:
+
+	> Afterwards -- will try to create a PHP Create, Read, Update, and Delete project.
+
+
+
+9:13 PM
+
+	> Will continue this tomorrow at the office.
+
+
+
+
+07-03-23
+
+
+Time In: 7:38 AM
+
+
+8:23 AM
+
+	> Will try to fix the WordPress issue.
+
+
+
+
+
+4:59 PM
+
+	> Will continue the homepage tomorrow.
+
+
+Time Out: 5:00 PM
+
+
+
+
+07-05-23
+
+
+Time In: 7:40 AM
+
+
+	> Will log the necessary details later.
+
+
+
+8:06 AM
+
+	> Will try to finish at least half the design of the homepage.
+
+	> Likely will not be able to design in WordPress.
+
+		> In case I do, I will install Advance Custom HTML so I can make quick modifications / alterations.
+
+	> Have to attend a program for the upcoming team building.
+
+
+
+2:44 PM
+
+	> Attended the pageant's photoshoot.
+
+	> Completed my Medical Exam -- Results to be submitted.
+
+	> Continuing the homepage design.
+
+
+
+4:21 PM
+
+	> Inquiry / Question / Topic I need an answer to:
+
+		> Website with a visible / accessible page for the user;
+		> and a page visible and accessible only to admin.
+
+		> Possible Solution:
+
+			> Using a page with a link only I can access, E.G:
+				>  https://priaxarc.edu/admin-login/
+				>  https://priaxarc.edu/admin-dashboard/
+
+			> It would be published with the whole website, but only I know the link to access it.
+
+
+
+5:02 PM
+
+	> Will continue the development tomorrow.
+
+	> Stuff to inquire / ask / propose:
+
+		> The Development Process of PRIA website.
+
+		> Using PHP to post / update articles.
+
+
+Time Out: 5:03 PM
+
+
+
+07-06-23
+
+
+Time In: 7:55 AM
+
+
+	> Will continue developing the homepage.
+
+	> Will likely inquire about the WordPress.
+
+	> Will attend practice later.
+
+
+	> Before clocking out:
+
+		> Log the most recent task / process you are developing / working on.
+
+			> Do this so we can pick up where we left off.
+
+
+
+12:01 PM
+
+	> Lunch break.
+
+
+
+
+
+5:02 PM
+
+	> Current Task: Card Containers for the Offered Programs
+
+	> Will possibly clock out after training and zumba (IF POSSIBLE)
+
+	> But will log the current time.
+
+
+Time Out: 5:04 PM
+
+
+
+07-07-23
+
+
+Time In: 7:45 AM
+
+
+	> TASKS TO DO <
+
+		> CARD CONTAINERS [ ]
+
+	> RESPONSIVE NAV BAR [ ]
+
+
+
+10:31 AM
+
+	> I won't be taking the laptop with me -- instead I will push the files to my repository.
+
+
+
+
+4:36 PM
+
+	> Hmm. I got way too distracted today.
+
+	> But on the plus side, I learned more today from that particular, well-explained video.
+
+	> Will likely continue this tomorrow at home.
+
+	> Let's create and upload a new repository on github.
+
+	> I actually might not create a new repository. We'll just make a backup of the previous folder...
+
+	> ... then copy the blog-website folder contents to the repository.
+
+
+
+4:46 PM
+
+	> Pushed the repository and updated contents.
+
+
+5:00 PM
+
+	> Will clock out after the practice if there is one.
+
+	> Will log my clock out here now, though.
+
+
+Time Out: 5:00 PM
+
+
+
+
+
+07-10-23
+
+
+	> For some reason, the updated folders with the HTML files I am currently working on did not get pushed to my repository.
+
+	> Now, let's catch up with the design.
+
+	> I will also transfer this text file to the update folder.
+
+	> But I will leave a copy of this text file in this folder.
+
+	> Will also sync my Viber desktop to my Viber android.
+
+
+
+
+8:09 AM
+
+	> Copied the text note to the //blog-website folder.
+
+	> Will make a copy to the GitHub - PRIA-Homepage-Design folder.
+
+	> Will now sync viber.
+
+
+
+
+
+1:49 PM
+
+	> Let's catch up. We need to finish this by tomorrow.
+
+
+4:38 PM
+
+	> Let's do the footer first.
+
+
+
+
+
+5:00 PM
+
+	> Will likely clock out later after practice.
+
+	> For now, I will make an entry before clocking out.
+
+
+	> TASKS TO FOLLOW UP: <
+
+		> REVIEWER PROFILES [ 12 CONTAINERS ]
+
+		> ARTICLES [ ]
+
+		> FOOTER [ ]
+
+	> Stopped at footer and the above tasks.
+
+
+5:35 PM
+
+	> Halfway done with the footer.
+
+	> Will continue the rest tomorrow.
+
+
+Time Out: 6:30 PM
+
+
+
+07-11-23
+
+Time In: 7:25 AM
+
+
+8:25 AM
+	
+	> Will pick up where we left off yesterday.
+
+	
+	> TASKS TO FOLLOW UP: <
+
+		> REVIEWER PROFILES [ 12 CONTAINERS ]
+
+		> ARTICLES [ ]
+
+		> FOOTER [ ]
+
+
+
+8:32 AM
+
+	> Restarting the laptop.
+
+
+
+8:51 AM
+
+	> Restarted the laptop 10~ minutes ago.
+
+
+
+9:07 AM
+
+	> Reinstalling Viber.
+
+
+9:09 AM
+
+	> For some reason, the laptop is experiencing some weird stuff right now. I wonder why that is.
+
+	> Restarting the laptop again.
+
+
+9:14 AM
+
+	> Restarted the laptop.
+
+	> Trying some stuff again.
+
+	> Viber is working.
+
+
+
+9:26 AM
+
+	> For some reason, though, Opera GX is still laggy. 
+
+	> Maybe because of the update. Or maybe because I have a thousand tabs opened in three separately opened Opera GX.
+	   Or -- maybe because I installed a bunch of Live Wallpapers all at once.
+
+	> The reason for this Frame Rate Drop and Stuttering responsiveness is something I might not know. D:
+
+
+
+9:43 AM
+
+	> Continuing with the Homepage Design.
+
+	> Need to finish this today.
+
+
+
+
+10:10 AM
+
+	> The stuttered responsiveness disappeared when I changed the Opera GX live wallpaper.
+
+	> It was likely due to the High Resolution of the live wallpaper.
+
+
+
+
+11:58 AM
+
+	> Taking my lunch.
+
+
+
+1:18 PM
+
+	> Continuing tasks.
+
+
+
+3:13 PM
+
+	> Focus on the tasks.
+
+
+
+6:52 PM
+
+	> Bah. Let's continue this tomorrow.
+
+	> Will log the current time, but will clock out after office.
+
+
+Time Out: 6:53 PM
+
+
+
+
+07-12-23
+
+
+Time In: 7:00 AM
+
+
+	> Will be continuing the horizontal slider from yesterday.
+
+
+
+6:58 PM
+
+	> I don't understand this slider.
+
+	> Will try again tomorrow.
+
+	> Recent Task:
+
+		> HORIZONTAL CARD SLIDER 
+
+
+
+Time Out: 7:00 PM
+
+
+
+
+
+07-13-23
+
+
+Time In: 7:07 AM
+
+
+	> Trying out the Swiper-Slider using the script provided by the website.
+
+
+8:23 AM
+
+	> Let's start with the code from the site.
+
+
+8:42 AM
+
+	> Trying out the code from a descrated element of Swiper JS.
+
+
+11:53 AM
+
+	> I am now a little satisfied with the Card Slider for the articles.
+
+
+11:56 AM
+
+	> Taking my lunch break.
+
+
+
+1:12 PM
+
+	> Resuming the tasks.
+
+
+
+5:12 PM
+
+	> Will be clocking out now.
+
+	> I will continue the reviewer's section tomorrow.
+
+	> Will be logging the time out here, but will probably log out right after practice.
+
+
+Time Out: 5:13 PM
+
+
+6:41 PM
+
+	> Came back to the office and opened the laptop to code -- realized I should just continue this tomorrow.
+
+
+
+Time Out: 6:42 PM
+
+
+
+07-14-23
+
+
+Time In: 7:17 AM
+
+
+8:25 AM
+
+	> Only starting now.
+
+	> Ate my lunch so I can nap later.
+
+	> Will continue the designing now.
+
+
+
+8:40 AM
+
+	> Let's rehaul the contents of the Reviewer Container.
+
+
+11:56 PM
+
+	> Taking my lunch now.
+
+	> I will try to solve this later.
+
+
+1:12 PM
+
+	> Lunch Break Finished.
+
+
+
+07-15-23
+
+
+Time In: 8:20 AM
+
+
+9:35 AM
+
+	> Zipping the files and sending it to the team.
+
+
+9:42 AM
+
+	> Sent the zipped folder to the team.
+
+
+10:31 AM
+
+	> Quick refresh for creating a flowchart.
+
+
+	> TASKS TO DO <
+
+		> PRIA Enrollment Flowchart [ ]
+
+		> Learn how to create a Flowchart [ ]
+
+		> Study the Enrollment System [ ]
+
+
+	> Note:
+
+		> Ask for permission before creating / logging accounts.
+
+
+10:55 AM
+
+	> Update:
+
+		> Will have to prioritize the responsiveness of our website.
+
+		> Will have to learn.
+
+
+
+11:25 AM
+
+	> Time to make the homepage responsive :DD
+
+
+
+1:06 PM
+
+	> Took a lunch break.
+
+
+
+1:42 PM
+
+	> One at a time.
+
+	> TASK TO DO <
+
+		> RESPONSIVE NAVBAR [ ]
+
+		> RESPONSIVE SLIDESHOW [ ]
+
+		> RESPONSIVE BODY [ ]
+
+		> RESPONSIVE REVIEWER SECTION [ ]
+
+		> RESPONSIVE ARTICLE [ ]
+
+			> RESPONSIVE CARD CONTAINERS [ ]
+
+		> RESPONSIVE //OFFERED-PROGRAMS// SECTION
+
+			> RESPONSIVE CARD TILES
+
+		> RESPONSIVE FOOTER [ ]
+
+
+
+4:11 PM
+
+	> I'm thinking I should just copy / base my design from the PDAC Website Source Code.
+
+		> Styled Tables for the Card Tiles
+
+		> Actually, it's well-designed. But it's not created from the <table> element.
+
+	> Well, I still should learn from it.
+
+	> Get some insight and learn how designing works.
+
+
+
+11:48 PM
+
+	> Forgot to log my time out earlier. Anyway, I will file an OT of 8 AM to 5 PM only.
+
+	> Developing a RESPONSIVE NAVBAR tonight so we understand how it actually works.
+
+	> We'll experiment.
+
+
+
+2:13 AM
+
+	> Ugh. I'm easily distracted and make random excuses.
+
+	> Right now, tho, I am very sleepy. I won't be able to think straight right now.
+
+	> We should get some sleep.
+
+	> Continuing this tomorrow.
+
+
+
+
+07-16-23
+
+
+9:41 AM
+
+	> Sending a new zip file to the team.
+
+
+
+9:57 AM
+
+	> Continuing this later.
+
+	> It's sunday, enjoy it a little.
+
+
+
+07-17-23
+
+
+Time In: 7:30 AM
+
+
+8:10 AM
+
+	> Time to work on the responsiveness of the website.
+
+	> Sir Jerald adviced that we use bootstrap for our responsive design.
+
+
+
+9:30 AM
+
+	> I'll be closing Opera GX Windows, log the tabs / ideas / plans that we should note of.
+
+	> Posting and Deleting / PHP Project
+
+	> Submit Button using PHP
+
+
+9:34 AM
+
+	> Decluttered some stuff. Not ready to fully commit to closing my tabs. Lol
+
+
+9:36 AM
+
+	> Starting from now, we should only log the time every 10 mins and up. 
+
+	> That way, my log notes would look more clean and arranged -- compared to logging every minute whenever I add a log.
+
+9:40 AM
+
+	> Following up some task -- hehehehe just kidding. A tease for the future me, in like, 10 mins after this lmaoooo.
+
+
+10:30 AM
+
+	> TASKS TO FINISH TODAY <
+
+		> RESPONSIVE NAVBAR [ ]
+
+		> RESPONSIVE SLIDESHOW [ ]
+
+
+10:42 AM
+
+	> Seriously, why am I so easily distracted?
+
+
+1:39 PM
+
+	> HAVEN'T FINISHED ANYTHING. Annoying.
+
+	> Let's actually do SOMETHING.
+
+
+
+4:59 PM
+
+	> You know, sometimes we get stuck like this for a single feature in our project --
+	   but once we're in the zone, we progress amazingly steady.
+
+
+
+7:15 PM
+
+	> LMFAOOOOOOOOO BOOTSTRAP IS THE KEY.
+
+
+	> Will continue the bootstrap tomorrow.
+
+
+Time Out: 7:24 PM
+
+
+07-18-23
+
+
+Time In: 7:00 AM
+
+
+
+8:16 AM
+
+	> Time to work on the responsiveness.
+
+
+8:48 AM
+
+	> Found some working bootstrap with a need of little adjustment -
+
+	> RESPONSIVENESS <
+
+		> RESPONSIVE NAVBAR [ DISPLAYED, RESPONSIVE ]
+
+		> RESPONSIVE SLIDESHOW [ DISPLAYED, RESPONSIVE ]
+
+		> RESPONSIVE HORIZONTAL CARDS FOR REVIERERS [ ]
+
+		> RESPONSIVE ARTICLE SLIDES [ DISPLAYED, RESPONSIVE ]
+
+			> ISSUES / CONCERN
+
+				> Arrow Buttons are too close to the containers / cards [ ]
+
+				> Cards / Containers don't have gaps [ ]
+
+				> The Transition is rough / not polished enough because of the code structure.
+
+
+
+12:00 PM
+
+	> Lunch Break.
+
+
+1:22 PM
+
+	> Lunch Break finished.
+
+
+3:28 PM
+
+	> RESPONSIVENESS <
+
+		> RESPONSIVE NAVBAR [ DISPLAYED, RESPONSIVE ]
+
+		> RESPONSIVE SLIDESHOW [ DISPLAYED, RESPONSIVE ]
+
+		> RESPONSIVE HORIZONTAL CARDS FOR REVIERERS [ ]
+
+		> RESPONSIVE ARTICLE SLIDES [ DISPLAYED, RESPONSIVE ]
+
+			> ISSUES / CONCERN
+
+				> Arrow Buttons are too close to the containers / cards [ ]
+
+				> Cards / Containers don't have gaps [ ]
+
+				> The Transition is rough / not polished enough because of the code structure.
+
+
+3:47 PM
+
+	> Not gonna lie, I'm heavily distracted.
+
+
+4:39 PM
+
+	> Hmmmmmm.
+
+
+5:00 PM
+
+	> Will redo the Offered Programs Section before heading out.
+
+	> Bootstrap is the key~
+
+	> – but we still should learn how to do it manually.
+
+	> Well, not manually as in everything...
+
+
+5:52 PM
+
+	> Practice will be tomorrow.
+
+	> Let's continue developing the homepage.
+
+
+7:14 PM
+
+	> We'll continue this at home.
+
+	> We left off at making the cards responsive.
+
+
+7:35 PM
+
+	> There are people still in the office.
+
+	> Continuing work at 3rd floor.
+
+
+
+7:54 PM
+
+	> Something went wrong with the card slides. 
+
+	> Will continue this at home.
+
+
+Time Out: 7:54 PM
+
+
+
+07-19-23
+
+
+Time In: 6:31 AM
+
+	> Could not continue the project last midnight. 
+
+	> Need to catch up.
+
+
+	> Not sure why – but the card slider issue yesterday is working right now. Might have been a connection issue.
+
+
+9:32 AM
+
+	> Done with the online meeting.
+
+	> Time to work on the design again.
+
+
+11:58 AM
+
+	> Lunch break.
+
+
+1:09 PM
+
+	> Lunch break finished.
+
+
+9:10 PM
+
+
+	> GOTTA GO HOME.
+
+	> Issue to resolve / follow up:
+
+		> ARTICLE SECTION [ ]
+
+		> FOOTER SECTION [ ]
+
+
+
+07-20-23
+
+
+Time In: 7:07 AM
+
+
+8:10 AM
+
+	> Following through where we left off yesterday.
+
+
+	> Issue to resolve / follow up:
+
+		> ARTICLE SECTION [ ]
+
+		> FOOTER SECTION [ ]
+
+
+1:11 PM
+
+	> Lunch break done.
+
+	> Let's finish this webpage today.
+
+
+	> Issue to resolve / follow up:
+
+		> ARTICLE SECTION [ Status: Working ]
+
+			> Issue: Whenever there is a network connection issue, the template starts to act weird.
+
+		> FOOTER SECTION [  ]
+
+		> REVIEWER SECTION [  ]
+
+
+1:22 PM
+
+	> For the Article Cards, I can just put the button in a separate column so that it will not overlap with the text.
+
+	> Not a priority, though.
+
+
+
+7:25 PM
+
+	> Calling it a day.
+
+	> Issue to resolve / follow up:
+
+		> ARTICLE SECTION [ Status: Working ]
+
+			> Issue: Whenever there is a network connection issue, the template starts to act weird.
+
+		> FOOTER SECTION [ Minor Adjustments needed  ]
+
+		> REVIEWER SECTION [ Status: Working ]
+
+			> Needs column minor adjustments.
+
+		> ARTICLE CONTAINER / CARDS [ Status: Working ]
+
+			> COLUMN BUTTONS [ ]
+
+
+Time Out: 7:30 PM
+
+	
+07-21-23
+
+Time In: 7:20 AM
+
+
+7:30 AM
+
+
+	> Issue to resolve / follow up:
+
+		> ARTICLE SECTION [ Status: Working ]
+
+			> Issue: Whenever there is a network connection issue, the template starts to act weird.
+
+		> FOOTER SECTION [ Minor Adjustments needed  ]
+
+		> REVIEWER SECTION [ Status: Working ]
+
+			> Needs column minor adjustments.
+
+		> ARTICLE CONTAINER / CARDS [ Status: Working ]
+
+			> COLUMN BUTTONS [ ]
+
+
+
+12:01 PM
+
+	> Lunch break.
+
+
+1:06 PM
+
+	> Lunch break finished.
+
+
+1:52 PM
+
+	> Set a specific height to .card-body.
+
+
+
+
+07-22-23
+
+
+Time In: 7:30 AM
+
+	> I might not file the last week's saturday Over Time.
+
+
+
+
+9:20 PM
+
+	> Continuing this tomorrow.
+
+
+
+07-23-23
+
+
+6:49 PM
+
+	> Continuing the designing.
+
+
+8:54 PM
+
+	> Submitted the homepage.
+
+	> Continuing the login page background tomorrow.
+
+
+
+07-24-23
+
+
+Time In: 7:20 AM
+
+	> Inquire about the login page design.
+
+
+
+
+7:38 AM
+
+	> Creating a design for the login form / page.
+
+	> TASK <
+
+		> Radius set to 10-20~ px [ ]
+
+		> Transparent Login Form [ ]
+
+
+7:24 AM
+
+	> We'll continue this tomorrow.
+
+
+Time Out: 7:30 PM
+
+
+
+07-25-23
+
+
+Time In: 7:20 AM
+
+	
+8:04 AM
+
+	> Continuing the design of the login page.
+
+
+11:46 AM
+
+	> Finished the login page around 10:28 AM.
+
+	> Still needs some modification for the smaller devices. But other than that it's okay.
+
+	> The HR notified the employees that today will be a half-day.
+
+	> Will log the time I will clock out now.
+
+
+Time Out: 12:00 PM
+
+
+
+
+08-01-23
+
+
+Time In: 7:45 AM
+
+
+8:04 AM
+
+	> Will make slight modifications with the Login Page and submit it.
+
+	
+
+11:43 AM
+
+	> Now, we need to review it meticulously and patch the buggy elements.
+
+
+12:02 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+	> There is a pending project to be discussed tomorrow, it will be a mobile and web application and will use MySQL database.
+
+	> After debugging the elements, we should create an initial design and what we will be coding first.
+
+	> Anyway, let's continue the debugging the elements and design.
+
+
+
+5:11 PM
+
+	> Will continue the design of the banner / carousel content tomorrow.
+
+
+Time Out: 5:11 PM
+
+
+
+08-02-23
+
+
+Time In: 7:43 AM
+
+
+7:54 AM
+
+	> NOOOOOOOOO!! T___T I wasn't the first to arrive at the office D:
+
+	> Well, anyway – time to work on the banners now. :DD
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+4:56 PM
+
+	> I think there are some stuff that I still need to change.
+
+	> Will change the behavior of the carousel for Slideshow and Articles.
+
+	> Will change the design grid of the offered programs.
+
+	> Will be logging the time I will be clocking out now.
+
+
+Time Out: 5:00 PM
+
+
+
+
+08-03-23
+
+
+Time In: 7:40 AM
+
+
+9:50 AM
+
+	> LMFAOOOO I forgot to log earlier.
+
+	> Anyway, I think the Slideshow Gallery needs changing. I am looking up templates now. 
+
+	> Afterwards, let's change the article behavior too. I saw some good templates, we'll try modifying it.
+
+
+	>> TASKS TO DO <<
+
+		> NEW SLIDESHOW TEMPLATE [ DISPLAYED ]
+
+			> Removed the slide animation.
+
+		> NEW ARTICLE TEMPLATE [ DISPLAYED ]
+
+			> Replaced the old article cards with a new template.
+
+		> REMOVE BULKED COMMENTED CODES [ HALFWAY FINISHED ]
+
+			> Removed unnecessary commented code blocks and links.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:44 PM
+
+	> Today, we celebrate for a bit by feeling elated. :DD
+
+	> I will be logging my time out now.
+
+	> Will fetch my I.D at PGMI later.
+
+
+Time Out: 5:00 PM
+
+
+
+08-04-23
+
+
+Time In: 7:30 AM
+
+
+7:57 AM
+
+	> Fetched a biscuit and brewed a coffee.
+
+	> Imma pretend I didn't trip and fall early this morning~ :DD
+
+
+
+.
+
+	> TASKS TO-DO <
+
+		> PDAC TECHNOLOGIES WEBSITE DESIGN [ ]
+
+			> CODE REVIEWING [ DONE ]
+
+				> Made some changes.
+
+
+			> HOMEPAGE [ DISPLAYED ]
+
+				> NAVIGATION BAR [ WORKING ]
+
+					> CHANGED THE ICON
+
+				> HEADER [ DISPLAYED ]
+
+					> ADDED THE PDAC TECH MASTHEAD
+
+					> Will likely design a new carousel.
+
+				> BODY [ DISPLAYED ]
+
+					> OFFERED SERVICES [ DISPLAYED ]
+
+						> ADDED CAPTIONS / DESCRIPTIONS
+
+					> PORTFOLIO [ DISPLAYED ]
+
+						> ADDED STOCK PHOTOS & WEBPAGE SCREENSHOTS
+
+					> CLIENTS [ DISPLAYED ]
+
+						> IMPORTED CODE SNIPPETS FROM PDAC WEBSITE:
+
+							> COMPANY CARD BLOCKS
+
+				> FOOTER [ DISPLAYED ]
+
+					> CHANGED THE BACKGROUND COLOR
+
+					> ADDED PDAC TECH LOGO
+
+
+
+8:49 AM
+
+	> Let's review the code first before making any changes.
+
+
+
+11:50 AM
+
+	> Progressed well. Will be logging the time I take my lunch break now.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:01 PM
+
+	> Lunch break finished.
+
+
+
+4:10 PM
+
+	> Mostly finished with the assigned task.
+
+	> Just need confirmation from my seniors.
+
+
+
+4:23 PM
+
+> MESSAGE / INQUIRY to Sir Art
+
+Good afternoon po, Sir Art!
+
+Hello po, na notify ko na rin po pala si Sir Jerald kanina sa mga changes. Pero ito po yung mga dinagdag ko, Thanks po! 
+
+Sa Navbar po pinalitan ko lang po slightly yung logo. Plan ko rin po ichange yung color if necessary po.
+
+Sa Header po nilagay ko po muna yung masthead sa PDAC Tech, pero nagd-design din po ako ng pwede ilagay using stock photos po na gagamitin din sa annual magazine and stock photos from google.
+
+Sa Services Offered po nabigyan ko na po captions yung ipsums. 
+
+Sa Portfolio Sections po naglagay rin po ako stock photos for DEV IDs and screenshots po ng Webpages for WEB IDs. Hindi ko pa po pinapalitan yung images for APPs.
+
+For Clients section naman po nilagay ko na po sa cards -- if okay lang po or hindi bulky tignan lalagyan ko rin po ng short description yung mga cards.
+
+Wala pa po akong changes sa Contact Us.
+
+Sa footer po pinalitan ko lang po yung background color, pero ich-change ko po pag need po.
+
+Thank you po ulit! :)
+
+
+4:31 PM
+
+	> Will be logging my time out now.
+
+	> Will likely bring the laptop in case I need it tomorrow.
+
+		> Need to confirm it with Sir Jackie first, though.
+
+
+4:37 PM
+
+	> Also, you're too anxious.
+
+
+Time Out: 5:00 PM
+
+
+
+
+08-08-23
+
+
+Time In: 7:00 AM
+
+
+8:09 AM
+
+	> Hmm, let's improve / add some design on the PDAC Tech Web page.
+
+
+11:13 AM
+
+	> Sent the edited version of the PDAC Technologies to Sir Art.
+
+	> Hehehehehe. 
+
+
+11:30 AM
+
+	> Now let's have a little fun.
+
+	> Actually, let's just eat lunch and attend the graduation practice so we don't get any problem with the graduation afterwards.
+
+
+11:52 AM
+
+	> I will be taking the keyboard with me tomorrow.
+
+
+12:00 PM
+
+	> I'll be taking my lunch break now.
+
+
+
+12:49 PM
+
+	> Clocking out now for the graduation practice.
+
+
+Time Out: 12:49 PM
+
+
+
+08-09-23
+
+
+Time In: 7:05 AM
+
+
+8:01 AM
+
+	> Gotta update laptop.
+
+
+
+8:10 AM
+
+	> Laptop updated.
+
+
+8:18 AM
+
+	> Let's create a mock design.
+
+
+11:37 PM
+
+	> Will likely update my laptop before and/or during lunch.
+
+	> Created a mockup logo for the Van Rental Application.
+
+	> Currently Creating a Brochure for PDAC Tech.
+
+
+
+4:35 PM
+
+	> I won't be taking the keyboard home with me... just yet.
+
+	
+	> TASKS I DID TODAY <
+
+		> Designed a PDAC Tech Brochure.
+
+		> Created an initial Van Rental System Logo / Splash Screen.
+
+		> Created and submitted the Time Buddy: Time Management and Payroll System Initial Logo (To be approved)
+
+
+	> Man, designing sure is hard. But it is fulfilling.
+
+	> Anyway, I will be logging in my time out here now. 
+
+	> Any log created from this day and this only should be logged at the top of the [ Time Out ] Section.
+
+
+Time Out: 5:00 PM
+
+
+
+08-10-23
+
+
+Time In: 7:30 AM
+
+
+8:02 AM
+
+
+	> Will probably edit some stuff on PDAC Technologies Website.
+
+	
+
+8:36 AM
+
+	> We'll keep iterating the logos until I find a satisfactory one.
+
+
+
+9:58 AM
+
+	> Elements to change in the PDAC Technologies Website <
+
+		> WEBSITE ICON [ DISPLAYED ]
+
+		> PORTFOLIO SECTION [ COMPLETED ]
+
+			> ADD / CHANGE IMAGES [ COMPLETED ]
+
+			> EDIT TITLES [ COMPLETED ]
+
+		> CLIENTS [ COMPLETED ]
+
+			> FIX THE LINKS [ COMPLETED ]
+
+				> Removed the links.
+
+			> Added PRIA - ARC to the Client Section.
+
+		> CONTACT US SECTION [ COMPLETED ]
+
+			> Updated the Email.
+
+
+
+11:56 AM
+
+	> Taking my lunch break now.
+
+
+1:00 PM
+
+	> Done taking my lunch break.
+
+
+
+3:57 PM
+
+	> Created an initial design for the Trophy Plaque Card.
+
+
+5:00 PM
+
+	> Will await further instructions from the team.
+
+	> Will continue creating initial designs for the Trophy Plaque Card.
+
+	> Will be clocking out now.
+
+
+
+Time Out: 5:00 PM
+
+
+08-11-23
+
+Time In: 7:30 AM
+
+
+8:12 AM
+
+
+	> Will attend the mass at 10 AM.
+
+	> Will create multiple initial designs for the Logos:
+
+		> TIME BUDDY [ ]
+
+		> VAN RENTAL SYSTEM [ ]
+
+	> Will create more design for the Trophy Plaque Card.
+
+
+
+10:54 AM
+
+	> Attended the mass.
+
+	> Continuing the tasks now.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:06 PM
+
+	> Lunch break finished.
+
+
+5:01 PM
+
+	> Will continue the initial designs for Time Buddy.
+
+		> I meant next week.
+
+	> Will clock out now.
+
+
+Time Out: 5:01 PM
+
+
+08-14-23
+
+
+Time In: 7:40 AM
+
+
+8:20 AM
+
+	> Will create the third design for Time Buddy.
+
+
+
+9:30 AM
+
+	> I was planning to delete some initial designs... But, I should keep them so they can compare the good designs with the designs that I was
+	   going to delete.
+
+
+
+10:18 AM
+
+	> Updating windows to install the necessary tools for Node.js. 
+
+
+
+10:27 AM
+
+	> Installing the Node.js requirements.
+
+
+	> Chocolatey upgraded 19/19 packages. See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
+
+
+	> Restarting laptop.
+
+
+
+10:41 AM
+
+	> Continuing the task.
+
+
+11:04 AM
+
+	> Thinking again – I think it's better if I read about PHP and base JavaScript before learning about React JS.
+
+
+11:57 AM
+
+	> Will be taking my lunch break shortly –
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+	> Now, what should we do?
+
+
+4:51 PM
+
+	> My – who knew it would be the reference...
+
+	> Will be heading home in a bit, will log my time out here now.
+
+	> Will be continuing the webpage tomorrow.
+
+
+Time Out: 5:00 PM
+
+
+
+08-16-23
+
+
+Time In: 7:40 AM
+
+
+
+8:03 AM
+
+
+	> Creating a list of the tasked I finished since my first week up to my current tasks.
+
+	
+
+10:23 AM
+
+	> Attended a meeting with the team.
+
+	> New tasks added, check Task Sheet for more information.
+
+	> Will be logging the tasks here in a bit, though.
+
+
+	> Section to Add: [ PDAC Technologies Website ]
+
+
+		> PDAC Technologies Team Profiles:
+
+			> Meet The Team Section [ ]
+
+
+	> Tasks To-Do <
+
+		> PORTFOLIO GALLERY LINKS [ FINISHED ]
+
+		> CLIENT CARD LINKS [ FINISHED ]
+
+			> CLIENT CARD TOOLTIPS [ ]
+
+			> CLIENT CARD SLIDE DOWN INFORMATION [ ]
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:01 PM
+
+	> Lunch break finished.
+
+
+
+1:15 PM
+
+	> TASKS TO-DO <
+
+		> CLIENT CARD TOOLTIPS [ ]
+
+		> CLIENT CARD SLIDE DOWN INFORMATION [ ]
+
+
+		> Section to Add: [ PDAC Technologies Website ]
+
+			> PDAC Technologies Team Profiles:
+
+				> Meet The Team Section [ ]
+
+
+	> Before that, let's check the Task Sheet and update the log.
+
+		> Nothing new from the Task Sheet to log here – all the necessary tasks are already added.
+
+
+
+1:45 PM
+
+	> Let's set aside the hover animation from now.
+
+	> Proceeding with the [ Meet the Team ] Section.
+
+
+
+2:55 PM
+
+	> Will be clocking out at 3 PM.
+
+	> Will continue the tasks tomorrow.
+
+
+
+Time Out: 3:00 PM
+
+
+
+08-17-23
+
+Time In: 8:00 AM
+
+
+8:03 AM
+
+	> Will be continuing the tasks from yesterday shortly.
+
+
+
+11:58 AM
+
+	> Will be taking my break now.
+
+	> Filed for a half-day leave today.
+
+
+
+12:13 PM
+
+	> Lunch break done.
+
+	> Will be heading out now.
+
+
+
+
+08-18-23
+
+Time In: 7:50 AM
+
+
+7:52 AM
+
+	> Will be resuming the task from yesterday in a bit.
+
+
+
+8:02 AM
+
+	> Resuming the tasks.
+
+
+9:18 AM
+
+	> Proceeding to displaying the Meet the Team Section.
+
+
+11:44 AM
+
+	> FINISHED TASK <
+
+		> Section to Add: [ PDAC Technologies Website ]
+
+			> PDAC Technologies Team Profiles: [ DISPLAYED ]
+
+				> Meet The Team Section [ DISPLAYED ]
+
+					> Meet the Team Carousel [ DISPLAYED ]
+
+					> Meet the Team Profile Cards [ DISPLAYED ]
+
+
+	> TASKS TO-DO <
+
+		> EMAIL FORM SUBMISSION  [ ]
+
+
+
+	> Will be taking lunch break in a bit – logging the lunch break time here now.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+	
+	> TASKS TO-DO <
+
+		> EMAIL FORM SUBMISSION  [ FINISHED ]
+
+			> ISSUE:
+
+				– The recipient (In this case, it@ptech-pdacgroup.com) won't receive the email of the submitter but will receive
+				    the email of the SMTP authenticated user.
+
+				– To solve this issue, I need to use Gmail's API for authenticating Emails or use another SMTP or configure my own.
+
+
+	> Will await further instructions.
+
+	> Will likely continue developing a webpage for Vandali, or design a logo.
+
+	> Will log the time I will be clocking out now.
+
+	> The form section in the webpage needs the following:
+
+		> ECHO Message.
+
+		> IF and ELSE Statements.
+
+		> REDIRECTORY Page.
+
+		> TRY and CATCH.
+
+
+Time Out: 5:00 PM
+
+
+
+08-20-23
+
+
+Time In: 7:50 AM
+
+
+8:20 AM
+
+	> slightly modified the PHP file for the email submission with the guidance of Sir Art.
+
+	> It gave me insight and I think it's alright now.
+
+	> TASKS TO-DO <
+
+		> TEAM GALLERY, OPTIONAL [ ]
+
+		> TEAM DESCRIPTION [ ]
+
+			> Refer to PDAC Group Website.
+
+		> REMOVE IMAGES [ ]
+
+		> SUBMISSION SENT DESIGN [ ]
+
+
+
+8:34 AM
+
+	> Will HAVE to buy a tumbler and/or a mug later.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:05 PM
+
+	> Created a Test Script for PRIA Enrollment System.
+
+
+
+4:54 PM
+
+	> Will clock out at 5 PM, but will log my time out here now.
+
+
+
+	> TASKS TO CONTINUE <
+
+		> ADMIN TEST SCRIPT
+
+	> CREATE A DESIGN FOR A NEW WEBSITE
+
+
+
+Time Out: 5:00 PM
+
+
+
+
+08-23-23
+
+
+Time In: 7:45 AM
+
+
+8:02 AM
+
+	> Will continue the tasks in a bit.
+
+
+
+8:21 AM
+
+	> TASKS TO-DO <
+
+		> ADMIN SIDE TEST SCRIPT [ ]
+
+
+		> CREATE AN INITIAL / PROTOTYPE DESIGN FOR NEW WEBSITE [ ]
+
+
+
+9:14 AM
+
+	> Need to process bank account.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:04 PM
+
+	> Lunch break finished.
+
+	> Updating my log...
+
+		> Actually, let's update it later.
+
+
+
+4:54 PM
+
+	> Will continue the tasks tomorrow.
+
+	> Will head out in a bit, but will be logging the time I clock out.
+
+	> TASK TO CONTINUE <
+
+		> REPORTS SECTION TEST SCRIPT [ ]
+
+
+Time Out: 5:00 PM
+
+
+
+08-24-23
+
+
+Time In: 7:35 AM
+
+
+
+8:12 AM
+
+	> Continuing the task from yesterday.
+
+	> TASKS TO-DO <
+
+		> ADMIN TEST SCRIPT [ FINISHED ]
+
+			> REPORTS SECTION TEST SCRIPT [ FINISHED ]
+
+				> MOCK REPORTS [ FINISHED ]
+
+					> LIST OF 1ST PAYMENT [ FINISHED ]
+
+					> LIST OF FINAL PAYMENT [ FINISHED ]
+
+				> REVIEW REPORTS [ FINISHED ]
+
+					> LIST OF FULLY PAID [ FINISHED ]
+
+					> LIST OF STUDENTS WITH BALANCE [ FINISHED ]
+
+				> LIST OF REGISTRANTS [ FINISHED ]
+
+				> ENROLLMENT REPORT [ FINISHED ]
+
+				> COLLECTION REPORT [ FINISHED ]
+
+				> INSTRUCTOR LIST [ FINISHED ]
+
+
+
+9:27 AM
+
+	> Done with the Test Scripts.
+
+
+
+10:04 AM
+
+	> Time to proceed to creating a design for DERUDZ Auto Care.
+
+	> Later on, we will create an Updated Task Sheet.
+
+
+
+10:21 AM
+
+	> PASSWORD <
+
+		> it@ptech-pdacgroup.com
+		   PD@Ct3ch0723
+
+
+
+11:53 AM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+3:43 PM
+
+	> Will be updating and restarting the laptop.
+
+
+3:48 PM
+
+	> Resuming tasks.
+
+
+5:00 PM
+
+	> Will continue the TEST SCRIPT either later or tomorrow.
+
+	> Clocking out now.
+
+
+Time Out: 5:00 PM
+
+
+
+08-25-23
+
+
+Time In: 10:29 AM
+
+
+10:30 AM
+
+	> Public holiday today but the HR requested for the company to be included. 
+
+	> Will need to continue some task, though.
+
+
+	> TASKS TO CONTINUE <
+
+		> TEST SCRIPT [ FINISHED ]
+
+
+6:24 PM
+
+	> Manual / Document for ADMIN SIDE.
+
+
+
+8:42 PM
+
+	> Manual for ADMIN created.
+
+
+Time Out: 8:43 PM
+
+
+08-26-23
+
+
+	> Will be creating a flowchart for the Enrollment System.
+
+
+
+9:00 PM
+
+	> Will continue the rest of the flowchart tomorrow.
+
+
+
+08-27-23
+
+3:30 PM
+
+	> Finishing the flowchart...
+
+
+4:12 PM
+
+	> Apparently, it was the design I was tasked to do, not the flowchart. Might as well commit...
+
+
+4:24 PM
+
+	> Finished with the Flowchart. Will create a design template tomorrow.
+
+
+Time Out: 4:25 PM
+
+
+08-28-23
+
+
+10:14 AM
+
+	> Will design the template for the flowchart tomorrow.
+
+
+	> ... okay, maybe I'll create a small bit.
+
+
+	> Will inquire about this tomorrow to Ms. Jas. For now, it's a holiday.
+
+
+
+
+08-29-23
+
+
+Time In: 7:55 AM
+
+
+8:13 AM
+
+	> Will be continuing the tasks in a bit.
+
+
+
+8:22 AM 
+
+	> Adding some minor differences for the manual.
+
+
+
+
+11:51 AM
+
+	> Will be taking lunch break soon. Logging the time stamp now.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:02 PM
+
+	> Lunch break finished.
+
+
+
+1:16 PM
+
+	> Resuming tasks.
+
+
+2:34 PM
+
+	> Will continue the front-end of Derudz Auto Care Website after creating task sheet.
+
+
+
+4:55 PM
+
+	> Will continue the tasks tomorrow.
+
+	> Will clock out at 5 PM, but will log the time stamp here now.
+
+
+Time Out: 5:00 PM
+
+
+08-30-23
+
+
+Time In: 7:45 AM
+
+
+8:14 AM
+
+	> Will be continuing the tasks.
+
+	> Tasks To-Do <
+
+		> TASK SHEET [ ]
+
+		> MEETING [ FINISHED ]
+
+
+12:00 PM
+
+	> Lunch break.
+
+1:06 PM
+
+	> Lunch break finished.
+
+
+	> Resuming Tasks.
+
+
+
+
+2:01 PM
+
+	> PRIA Website <
+
+	> CHANGES TO MAKE <
+
+	> Navigation Tab [ ]
+
+		> OUR TEAM [ DISPLAYED ]
+
+		> TESTIMONIALS [ DISPLAYED ]
+
+		> SCHOOL VISIT [ DISPLAYED ]
+
+		> LOGIN | REGISTER AN ACCOUNT [ ]
+
+	> OUR TEAM [ CHANGES DISPLAYED ]
+
+		> CHANGES DISPLAYED.
+
+	> OFFERED PROGRAM CHANGES [ DISPLAYED ]
+
+
+	> GALLERY PAGE [ DISPLAYED ]
+
+		> GALLERY SHOWCASE [ DISPLAYED ]
+
+			> IMAGES [ DISPLAYED ]
+
+			> DESCRIPTIONS [ DISPLAYED ]
+
+
+
+
+5:46 PM
+
+	> Clocked out about 30 mins ago. logging it here.
+
+
+Time Out: 5:15 PM
+
+
+
+
+08-31-23
+
+
+Time In: 8:06 AM
+
+
+8:18 AM
+
+	> Continuing the website designing.
+
+	--OFFERED PROGRAMS--
+		Face-to-Face CPA Review Class (with scrollable pictures)
+			- Classroom discussion and Problem solving
+			- Printed Hand-outs (pictures)
+			- access to learning resources
+			- Face to face interaction with the reviewer (pictures-> classroom with students)
+			- Optional online access
+
+
+	> PRIA Website <
+
+	> CHANGES TO MAKE <
+
+	> Navigation Tab [ ]
+
+		> OUR TEAM [ DISPLAYED ]
+
+		> TESTIMONIALS [ DISPLAYED ]
+
+		> SCHOOL VISIT [ DISPLAYED ]
+
+		> LOGIN | REGISTER AN ACCOUNT [ ]
+
+	> OUR TEAM [ CHANGES DISPLAYED ]
+
+		> CHANGES DISPLAYED.
+
+	> OFFERED PROGRAM CHANGES [ ]
+
+		> FTF CPA REVIEW CLASS GALLERY [ ]
+
+			> DETAILS / BULLET POINTS [ DISPLAYED ]
+
+				> Classroom Discussion and Problem Solving [ DISPLAYED ]
+
+				> Printed-Handouts (PICTURES) [ DISPLAYED ]
+
+				> Access to Learning Resources [ DISPLAYED ]
+
+				> Face-to-Face interaction with the reviewer [ DISPLAYED ]
+
+					> CLASSROOM IMAGES [ DISPLAYED ]
+
+				> Optional Online Access [ DISPLAYED ]
+
+
+	> GALLERY PAGE [ ]
+
+		> GALLERY SHOWCASE [ ]
+
+			> IMAGES [ ]
+
+			> DESCRIPTIONS [ ]
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+12:21 PM
+
+	> Lunch break finished.
+
+	> Resuming tasks.
+
+
+4:58 PM
+
+	> Will be continuing this later.
+
+
+Time Out: 5:00 PM
+
+
+09-01-23
+
+
+Time In: 7:30 AM
+
+
+	> Resuming tasks.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+12:41 PM
+
+	> Resuming my tasks.
+
+
+
+2:21 PM
+
+	> Finished with the manual. Will continue the Website designing in a bit.
+
+
+2:49 PM
+
+	> Adding animations to the sections.
+
+
+
+4:48 PM
+
+	> Added the animations.
+
+	> Will be adding floating button.
+
+	> Will be clocking out in a while. Logging the time out here.
+
+
+Time Out: 5:00 PM
+
+
+
+09-04-23
+
+
+Time In: 8:00 AM
+
+
+8:24 AM
+
+	> Will be fixing and adding animations to the website.
+
+
+
+10:40 AM
+
+	> Will resume tasks later.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:54 PM
+
+	> Will be designing a Homepage for TimeBuddy Payroll and Time Management System.
+
+	> Will be designing it and set it as a prioritize task for tomorrow.
+
+	> Will be clocking out at 5 PM. Will now log in the time here.
+
+
+
+
+Time Out: 5:00 PM
+
+
+
+09-05-23
+
+
+Time In: 7:45 AM
+
+
+8:04 AM
+
+	> Will be resuming tasks in a bit.
+
+
+
+8:22 AM
+
+	> Creating a website design for TimeBuddy.
+
+
+
+10:30 AM
+
+	> TimeBuddy Homepage [ ]
+
+		> NAVIGATION TAB [ ]
+
+		> CAROUSEL HEADER [ OBSOLETE ]
+
+			– NOTE:
+
+				> Carousel Galleries are NOT always necessary.
+
+				> Removing this feature.
+
+		> BODY CONTENTS [ ]
+
+			>
+
+			>
+
+			>
+
+	
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:08 PM
+
+
+	– REMINDER –
+
+		> This will be mainly used on Desktops. Make it responsive, but the focus is for Desktop version.
+
+
+4:28 PM
+
+> TimeBuddy Homepage [ ]
+
+		> NAVIGATION TAB [ DISPLAYED ]
+
+		> CAROUSEL HEADER [ OBSOLETE ]
+
+			– NOTE:
+
+				> Carousel Galleries are NOT always necessary.
+
+				> Removing this feature.
+
+		> FEATURED HEADER [ DISPLAYED ]
+
+		> BODY CONTENTS [ ]
+
+			> CAPTION SUMMARY [ DISPLAYED ]
+
+			> SYSTEM FEATURES [ ]
+
+				> 
+
+			>
+
+
+4:59 PM
+
+	> Will be continuing the designing tomorrow.
+
+
+Time Out: 5:00 PM
+
+
+
+09-06-23
+
+Time In: 8:50 AM
+
+
+8:58 AM
+
+	> First late of the month.
+
+
+	> Resuming tasks.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:23 PM
+
+> TimeBuddy Homepage [ ]
+
+		> NAVIGATION TAB [ DISPLAYED ]
+
+		> CAROUSEL HEADER [ OBSOLETE ]
+
+			– NOTE:
+
+				> Carousel Galleries are NOT always necessary.
+
+				> Removing this feature.
+
+		> FEATURED HEADER [ DISPLAYED ]
+
+		> BODY CONTENTS [ ]
+
+			> CAPTION SUMMARY [ DISPLAYED ]
+
+				+ Changing this to TImeBuddy Logo and Caption
+
+			> SYSTEM FEATURES [ DISPLAYED ]
+
+				> GRID: GENERAL FEATURES [ DISPLAYED ]
+
+			> DETAILED FEATURES [ ]
+
+				> 
+
+
+
+4:52 PM
+
+	> Will continue the designing tomorrow.
+
+	> Clocking out by 5, logging the time here.
+
+
+
+Time Out: 5:00 PM
+
+
+09-07-23
+
+
+Time In: 7:40 AM
+
+
+
+8:04 AM
+
+	> Will be resuming the tasks.
+
+
+
+11:51 AM
+
+	> GRID LAYOUT [ ]
+
+		> BODY SECTION CONTENT
+
+			> ADMINISTRATOR CONTROL [ DISPLAYED ]
+
+				> ADMINISTRATOR CONTROL [ DISPLAYED ]
+
+					> ADMINISTRATOR PRIVILEGES [ DISPLAYED ]
+
+						> ICON [ DISPLAYED ]
+
+						> DETAIL [ PLACEHOLDER ]
+
+					> ADMINISTRATOR PRIVILEGES [ DISPLAYED ]
+
+						> ICON [ DISPLAYED ]
+
+						> DETAIL [ PLACEHOLDER ]
+
+					> ADMINISTRATOR PRIVILEGES [ DISPLAYED ]
+
+						> ICON [ DISPLAYED ]
+
+						> DETAIL [ DISPLAYED ]
+
+				> FEATURED IMAGE [ DISPLAYED, MOVED TO TOP ]
+
+
+
+4:53 PM
+
+	> Will be updating the log tomorrow.
+
+	> Clocking out in a bit, logging it here now.
+
+
+Time Out: 5:00 PM
+
+
+
+09-08-23
+
+
+Time In: 7:40 AM
+
+
+8:45 AM
+
+	> Updating log and adding some changes to the website.
+
+
+
+
+
+11:43 AM
+
+	> Tasked to remove the Graphics from the TimeBuddy Homepage.
+
+	> Will be redesigning the background of the System and the Tables.
+
+		> Will provide 3 samples.
+
+		> Remove the Peso symbol from the logo.
+
+			> Make it more like a wristwatch.
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:04 PM
+
+	> Lunch break finished.
+
+	> Working on the background and the logo now.
+
+	> Will do the logo first.
+
+
+
+1:42 PM
+
+	> Change the color scheme for the homepage.
+
+
+
+
+3:56 PM
+
+	> Instead of Actual Screenshots, it will be Directories inside of container.
+
+	> This will be a graphical representation of a screenshot.
+
+	> Might put icons for the directories and/or table heads.
+
+	> CONTAINER [ ] 
+
+		> DIRECTORY 1, ACTIVE [ ]
+
+			> MOUSE POINTER [ ]
+
+		> DIRECTORY 2 [ ]
+
+		> DIRECTORY 3 [ ]
+
+
+
+4:55 PM
+
+	> Will be clocking out in a bit.
+
+	> Resuming tasks later or tomorrow.
+
+
+
+Time Out: 5:00 PM
+
+
+
+09-10-23
+
+
+12:30 PM
+
+	> Making some Table Design changes.
+
+
+
+
+2:18 PM
+
+	> MESSAGE:
+
+		> Good afternoon po Sir. Naglagay na lang po pala ako stripes for table, para po may indicator for users. HIndi ko rin po tiningkadan
+		   yung stripes para hindi di masyado magkaroon ng contrast sa background wallpaper.
+
+		  Yung sa link indicators naman po sa taas ng table nilagayn ko rin onting icons and background para highlighted and hindi po mawala sa
+                   background.
+
+		  Yung homepage naman po niremove ko narin yung mga graphics, pinalitan ko po ng design na fit po sa TimeBuddy directories.
+
+
+
+
+09-11-23
+
+
+Time In: 7:59 AM
+
+
+9:12 AM
+
+
+	> Updated the Placeholder texts from the homepage.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+1:43 PM
+
+	> Updated the placeholder texts from the homepage.
+
+	> Created the graphics for the homepage.
+
+	> Waiting for new tasks.
+
+
+
+4:53 PM
+
+	> Will be clocking out by 5 PM. Logging the time now.
+
+	> Will try out SPRING Framework tomorrow.
+
+
+Time Out: 5:00 PM
+
+
+
+
+09-12-23
+
+
+Time In: 7:42 AM
+
+
+8:08 AM
+
+	> Will be watching tutorials later.
+
+
+
+9:25 AM
+
+	> While no tasks are given, I will continue the development of Vandali – using Java Spring as the back-end.
+
+	> Will develop the front-end first.
+
+
+
+10:29 AM
+
+	> Placing placeholder texts for the content captions for the meantime.
+
+	> Creating captions for a concept product takes too much time.
+
+
+	> P.S: Might need a Carousel Gallery for this. Although not prioritized as of now.
+
+	
+
+	> VANDALI: HTML DESIGNS <
+
+	> NAVIGATION BAR [ DISPLAYED ]
+
+		> LOGO [ DISPLAYED ]
+
+		> LINKS [ DISPLAYED ]
+
+	> HEADER CONTENT [ ]
+
+		> CAPTION [ ]
+
+		> IMAGE [ ]
+
+			> CAPTION [ ]
+
+			> IMAGE [ ]
+
+			> CAPTION [ ]
+
+			> IMAGE [ ]
+
+			> CAPTION [ ]
+
+			> IMAGE [ ]
+
+	> 
+
+
+12:00 PM
+
+	> Lunch break.
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:21 PM
+
+	> Will not focus too much on front-end responsiveness tomorrow.
+
+
+
+4:57 PM
+
+	> Will clock out by 5 PM. Logging the time now.
+
+
+Time Out: 5:00 PM
+
+
+
+09-13-23
+
+
+Time In: 7:35 AM
+
+
+8:01 AM
+
+	> Might make some changes to PRIA homepage.
+
+	> Will continue designing Vandali homepage afterwards.
+
+
+
+11:53 AM
+
+	> Will take lunch break soon.
+
+
+
+12:00 PM
+
+	> Lunc break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+1:52 PM
+
+	> 3D Logo
+
+	> Make the website more Corporate Presentable.
+
+	> Enlarge TimeBuddy logo from the navbar.
+
+	> Homepage does not need to have too much detail.
+
+
+
+
+4:42 PM
+
+	> Successful in imitating a 3D shape. Now, to fit it to our design.
+
+
+
+4:59 PM
+
+	> Will continue the 3D logo tomorrow.
+
+	> Clocking out now.
+
+
+
+Time Out: 5:00 PM
+
+
+
+09-14-23
+
+
+Time In: 7:40 AM
+
+
+8:20 AM
+
+	> Continuing the 3D logo.
+
+
+
+9:27 AM
+
+	> Have a template now for a 3D Logo.
+
+	> Let's proceed to making the flat logo large.
+
+		> Done.
+
+
+
+9:41 AM
+
+	> Proceeding to the webpage.
+
+
+
+11:50 AM
+
+	> Will be taking lunch break shortly.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:52 PM
+
+	> Will be clocking out by 5.
+
+	> Will continue this tomorrow.
+
+Time Out: 5:00 PM
+
+
+
+
+09-15-23
+
+
+Time In: 7:55 AM
+
+
+10:08 AM
+
+	> Will now proceed to making the website more corporate-like.
+
+	> Will reference an ERP Website.
+
+
+
+11:43 AM
+
+	> Will create a GRID Navigation Design, and suggest it.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:52 PM
+
+	> Will clock out by 5 PM.
+
+	> Logging the time now.
+
+
+Time Out: 5:00 PM
+
+
+
+09-18-23
+
+Time In: 7:45 AM
+
+
+
+8:03 AM
+
+
+	> Continuing tasks.
+
+
+	> TASKS TO-DO <
+
+		> TIMEBUDDY HOMEPAGE DESIGN CHANGES [ ]
+
+			> TIME SHEET TABLE SCREENSHOT [ DISPLAYED ]
+
+			> 201 – PERSONNEL PROFILE [ ]
+
+			> PAYSLIP GENERATION [ ]
+
+			> SYSTEM MANAGEMENT [ ]
+
+		> WEBPAGE NAVIGATION PAGES
+
+
+
+11:53 PM
+
+	> Will take lunch break in a bit. Logging now.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+	> Continuing tasks.
+
+
+2:55 PM
+
+	> GRID LAYOUT [ ]
+
+		> ROW [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+		> ROW [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+		> ROW [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+			> COL [ ]
+
+		> ROW
+
+			> COL [ ]
+
+			> COL [ ]
+
+
+
+4:53 PM
+
+	> Will continue the designing tomorrow.
+
+	> Will clock out by 5 PM, logging it now.
+
+
+
+Time Out: 5:00 PM
+
+
+09-19-23
+
+
+Time In: 7:35 AM
+
+
+
+8:04 AM
+
+	> Continuing the designing.
+
+
+
+9:07 AM
+
+	> Customizing a PPT Presentation Template for PDA Technologies.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:03 PM
+
+	> Lunch break finished.
+
+
+
+3:19 PM
+
+	> Animating a navigation page BECAUSE I WANT TO.
+
+	> KEY ANIMATIONS <
+
+		> CLOCK HANDS [ ]
+
+			> Follows mouse pointer.
+
+		> CLOCK HOURS / MINUTES [ ]
+
+			> Zooms in on mouse hover.
+			
+
+
+4:52 PM
+
+	> Clocking out by 5 PM, logging it now.
+
+
+Time Out: 5:00 PM
+
+
+
+09-20-23
+
+
+Time In: 7:39 AM
+
+
+8:04 AM
+
+
+	> Continuing the tasks in a bit.
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:54 PM
+
+	> Clocking out by 5 PM.
+
+
+Time Out: 5:00 PM
+
+
+
+
+09-21-23
+
+
+Time In: 7:35 AM
+
+
+8:01 AM
+
+	> Continuing the tasks in a bit.
+
+
+8:11 AM
+
+	> Editing the PPT first.
+
+
+9:09 AM
+
+	> Designing the clock navigation again.
+
+
+11:50 AM
+
+	> Will take lunch break in a bit. Logging it now.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:19 PM
+
+	> Changes for the Animated Clock:
+
+		> Make the Minute Hand move instead of the Hour Hand [ COMPLETED ]
+
+		> Shorten the Minute Hand, elongate the Hour Hand [ COMPLETED ]
+
+		> Reduce the size [ COMPLETED ]
+
+
+
+2:06 PM
+
+	> Adding it to the homepage now... Maybe in a bit...
+
+
+
+4:55 PM
+
+	> Will be clocking out by 5. Logging it now.
+
+
+
+Time Out: 5:00 PM
+
+
+09-22-23
+
+
+Time In: 7:30 AM
+
+
+
+8:03 AM
+
+	> Resuming given tasks.
+
+
+11:55 PM
+
+	> Will be taking lunch break in a bit. Logging it now.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+4:55 PM
+
+	> Will clock out by 5. Logging it now.
+
+
+Time Out: 5:00 PM
+
+
+
+
+09-25-23
+
+
+Time In: 7:35 AM
+
+
+8:02 AM
+
+	> Will be updating windows later.
+
+
+	> Will likely participate in the test scripts later.
+
+
+
+11:54 AM
+
+	> Will be taking lunch break by 12 PM.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:55 PM
+
+	> Will clock out by 5 PM. Logging it now.
+
+
+TIme Out: 5:00 PM
+
+
+
+09-26-23
+
+Time In: 7:35 AM
+
+
+8:10 AM
+
+	> Resuming the test scripts.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+
+
+09-27-23
+
+
+Time In: 7:00 AM
+
+
+11:55 AM
+
+	> Couldn't log anything earlier because of some stuff.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+
+09-28-23
+
+
+Time In: 7:08 AM
+
+
+
+8:28 AM
+
+
+	> Resuming test scripts and will proceed to creating a manual.
+
+
+
+
+11:55 AM
+
+	> Tasked to create a new Test Script for PRIA enrollment system.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+
+09-29-23
+
+
+
+Time In: 7:25 AM
+
+
+7:42 AM
+
+	> Testing the payment.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Finished lunch break.
+
+
+
+Time Out: 5:00 PM
+
+
+
+10-02-23
+
+
+Time In: 7:45 AM
+
+
+8:01 AM
+
+	> Will resume the test script in a bit.
+
+
+8:40 AM
+
+	> Resuming testing.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+
+
+
+10-03-23
+
+
+Time In: 7:47 AM
+
+
+8:04 AM
+
+
+	> Retesting the issues faced.
+
+
+
+
+
+9:04 AM
+
+	> SCHEDULE
+
+		> TASKS TO-DO
+
+		> 9:00 AM – 12:00 PM
+
+			> USER MANUAL [ ]
+
+				> Continuing tomorrow. [ 12:00 PM - 10/03/23 ]
+
+				> Continuing it now. [ 1:55 PM - 10/03/23 ]
+
+			> ADMINISTRATOR MANUAL [ ]
+
+
+		> 1:00 PM – 5:00 PM
+
+			> TimeBuddy Test Script [ ]
+
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:01 PM
+
+	> Lunch break finished.
+
+
+1:53 PM
+
+	> Will continue creating the User Manual.
+
+
+
+Time Out: 5:00 PM
+
+
+
+10-04-23
+
+
+Time In: 7:25 AM
+
+
+8:23 AM
+
+	> SCHEDULE
+
+		> TASKS TO-DO
+
+		> 9:00 AM – 12:00 PM
+
+			> USER MANUAL [ ]
+
+				> Continuing tomorrow. [ 12:00 PM - 10/03/23 ]
+
+				> Continuing it now. [ 1:55 PM - 10/03/23 ]
+
+				> Resuming creation... [ 10-04-23 ]
+
+			> ADMINISTRATOR MANUAL [ ]
+
+
+		> 1:00 PM – 5:00 PM
+
+			> TimeBuddy Test Script [ ]
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+Time Out: 5:00 PM
+
+
+
+10-06-23
+
+
+Time In: 7:25 AM
+
+
+8:13 AM
+
+
+	> Will create the Admin Manual later.
+
+	> Will also ask the HR how to process the Biometrics Data.
+
+
+
+10:30 AM
+
+	> User Manual created.
+
+	> Let's not kid ourself, I know they won't use this lol.
+
+
+11:34 AM
+
+	> Will be adding a new feature to the user manual.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+
+
+10-09-23
+
+
+Time In: 7:28 AM
+
+
+8:01 AM
+
+	> Will continue tasks in a bit.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+
+
+10-10-23
+
+
+Time In: 7:28 AM
+
+
+8:06 AM
+
+	> Will be continuing the admin manual.
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:45 PM
+
+	> Found a temporary solution.
+
+
+Time Out: 5:00 PM
+
+
+
+10-11-23
+
+
+Time In: 7:23 AM
+
+
+8:47 AM
+
+	> Continuing the admin manual and minor debugging.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+Time Out: 5:00 PM
+
+
+
+10-12-23
+
+Time In: 7:25 AM
+
+
+8:23 AM
+
+	> Will continue with the tasks in a bit.
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+Time Out: 5:00 PM
+
+
+
+10-13-23
+
+
+Time In: 7:28 AM
+
+
+8:02 AM
+
+	> Testing added featuares.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+3:58 PM
+
+	> I will be shutting down the laptop before clocking out.
+
+
+
+4:58 PM
+
+	> Letting Microsoft update the system and shut it down afterwards.
+
+
+Time Out: 5:00 PM
+
+
+10-16-23
+
+
+Time In: 7:30 AM
+
+
+8:07 AM
+
+	> Will continue tasks in a bit.
+
+
+
+8:17 AM
+
+	> It's monday. ┗( T﹏T )┛
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:56 PM
+
+	> Continuing the Admin Manual tomorrow.
+
+		> Payroll Processing Step-by-Step Procedure guide.
+
+
+Time Out: 5:00 PM
+
+
+
+10-17-23
+
+Time In: 7:25 AM
+
+
+8:13 AM
+
+	> Will continue the admin manual in a bit.
+
+
+8:14 AM
+
+	> Might add a new design to the website or system navigations.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+Time Out: 5:00 PM
+
+10-18-23
+
+Time In: 7:25 AM
+
+
+
+8:02 AM
+
+	> Will continue the admin manual in a bit.
+
+	> Will now continue creating the admin manual.
+
+
+9:34 AM
+
+	> NEW TASK:
+
+		> User Guide Presentation [ ]
+
+		> Approvers Guide Presentation [ ]
+
+		> Both of these manuals will Email Notifications and Role Limitations.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+Time Out: 5:00 PM
+
+
+10-19-23
+
+
+Time In: 7:45 AM
+
+
+8:02 AM
+
+	> Continuing the manual in a bit.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:55 PM
+
+	> A little more and User & Admin Manual is finished.
+
+	> Afterwards, will create a presentation for User Guide.
+
+
+Time Out: 5:00 PM
+
+
+
+10-20-23
+
+
+Time In: 7:30 AM
+
+
+8:19 AM
+
+	> Will be finishing the manual today.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+3:09 PM
+
+	> User and Admin Manual finished.
+
+
+Time Out: 5:00 PM
+
+
+
+10-23-23
+
+Time In: 7:47 AM
+
+
+8:13 AM
+
+	> Will be creating a User Guide presentation, I think...
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+Time Out: 5:00 PM
+
+
+
+10-24-23
+
+
+Time In: 7:26 AM
+
+
+8:12 AM
+
+	> Will be watching either Java Spring tutorials or read them.
+
+
+
+9:13 AM
+
+	> Will watch Java Spring Tutorials today, but will resume C# tomorrow.
+
+
+
+9:39 AM
+
+	> This is why I didn't want to use Spring. Too many stuff going on. I am not asking Sir Art for the meantime.
+
+	> Will find the right timing in a better mood.
+
+
+9:51 AM
+
+	> Resuming C# tutorials.
+
+
+
+
+11:30 AM
+
+	> Task to create a TimeBuddy promotional poster.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+
+4:51 PM
+
+	> Will attempt to provide a better graphical poster for TimeBuddy tomorrow.
+
+
+5:00 PM
+
+	> Time Out.
+
+
+
+10-25-23
+
+
+Time In: 7:30 AM
+
+
+8:24 AM
+
+	> Designing a poster for TimeBuddy.
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break finished.
+
+
+4:57 PM
+
+	> Will continue the presentation and poster tomorrow.
+
+
+Time Out: 5:00 PM
+
+
+
+10-26-23
+
+
+Time In: 7:45 AM
+
+
+
+8:13 AM
+
+	> Will be continuing the presentation.
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+Time Out: 5:00 PM
+
+
+
+10-27-23
+
+
+Time In: 7:27 AM
+
+
+8:23 AM
+
+
+	> Will wrap up the powerpoint.
+
+
+8:49 AM
+
+
+	> :D
+
+
+
+
+12:00 PM
+
+	> Lunch break.
+
+
+
+1:00 PM
+
+	> Lunch break.
+
+
+
+
+
+
+
+
+
+
+4:40 PM
+
+	> PDAC Group website encountered a problem with one of its CSS plugins.
+
+	> Will wait for it to come back up before attempting to customize the code.
+
+
+
+Time Out: 5:00 PM
+
+
+
+
+11-06-23
+
+
+Time In: 7:30 AM
+
+
+8:07 AM
+
+
+	> Time to get back to work. T___T
+
+
+	> For some reason, the PDAC Group website is not loading. Might be an issue with the connection.
+
+		> Update: Connection issue.
+
+
+
+9:47 AM
+
+	> Connection restored.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

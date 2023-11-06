@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Login Page </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" href="home/css/login-page.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="home/css/swiperbundle.min.css"/>
+    <!-- SCRIPTS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<body style="background-image: url('home/assets/imgs/login-bg-wp2.jpg'); background-repeat: no-repeat;
+background-size: cover;">
+    <section class="" style="background-color: transparent;">
+        <div class="container-m container h-100 m-lg-0 m-md-auto m-sm-auto mt-lg-5 mt-md-5 mt-ms-5 mb-md-5 mb-ms-5 mb-ms-5">
+          <div class="row d-flex justify-content-center align-items-center h-100" style="background-color: transparent;">
+            <div class="col-lg-12 col-xl-11" style="background-color: transparent;">
+              <div class="card text-black" >
+                <div class="card-body p-md-5">
+                  <div class="row-md-5 d-lg-none mb-sm-4">
+                    <div class="image-container" style="margin-bottom: 50px;">
+                      <!-- <img class="card-img-top hidden" src="assets/imgs/pria-masthead-3.jpg"> -->
+                      <img class="card-img-top hidden" src="home/assets/imgs/login-bg-page.jpg">
+                    </div>
+                  </div>
+                  <div class="row justify-content-center">
+                    
+                  <p class="row text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4 mt-md-5" style="background-color: transparent;">Register</p>
+                    
+                    <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+      
+                      <form class="mx-1 mx-md-4">
+      
+                        <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label" for="fname" >Username</label>
+                            <input id="uname" type="text" class="form-control " name="fname" value="" required="" autocomplete="fname" autofocus="">
+                          </div>
+                        </div>
+                        
+                        <div class="d-flex flex-row align-items-center mb-2">
+                            <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                            <div class="form-outline flex-fill mb-0">
+                              <label class="form-label col-md-6" for="mname">Email Address</label>
+                                <input id="email" type="text" class="form-control " name="mname" value="" required="" autocomplete="mname" autofocus="">
+                            </div>
+                          </div>
+
+                          <div class="d-flex flex-row align-items-center mb-2">
+                            <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                            <div class="form-outline flex-fill mb-0">
+                              <label class="form-label" for="lname">Password</label>
+                                <input id="password" type="password" class="form-control " name="lname" value="" required="" autocomplete="lname" autofocus="">
+                            </div>
+                          </div>
+
+                          <div class="d-flex flex-row align-items-center mb-2">
+                            <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                            <div class="form-outline flex-fill mb-0">
+                              <label class="form-label" for="lname">Confirm Password</label>
+                                <input id="confirm-password" type="password" class="form-control " name="lname" value="" required="" autocomplete="lname" autofocus="">
+                            </div>
+                          </div>
+
+                          <div class="d-flex flex-row align-items-center mb-2">
+                            <i class="fas fa-envelope fa-lg me-3 fa-fw"></i>
+                            <div class="form-outline flex-fill mb-0">
+                              <label class="form-label" for="name">First Name</label>
+                              <input id="fname" type="text" class="form-control " name="name" value="" required="" autocomplete="name" autofocus="">
+                            </div>
+                          </div>
+      
+                        <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-envelope fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label" for="email">Middle Name</label>
+                            <input id="mname" type="text" class="form-control " name="email" value="" required="" autocomplete="email">
+                          </div>
+                        </div>
+      
+                        <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-lock fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label" for="password">Last Name</label>
+                            <input id="lname" type="text" class="form-control " name="password" required="" autocomplete="new-password">
+                          </div>
+                        </div>
+      
+                        <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-key fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label" for="confirm-password">Gender</label>
+                            <input id="gender" type="text" class="form-control" name="password_confirmation" required="" autocomplete="new-password">
+                            
+                          </div>
+                        </div>
+                      
+                      </form>
+      
+                    </div>
+                    <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1"  style="background-color: transparent;">
+    
+                    <form class="mx-1 mx-md-4">
+    
+                      <div class="d-flex flex-row align-items-center mb-2">
+                        <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                        <div class="form-outline flex-fill mb-0">
+                          <label class="form-label" for="fname">Date of Birth</label>
+                          <input id="birthdate" type="text" class="form-control " name="fname" value="" required="" autocomplete="fname" autofocus="">
+                        </div>
+                      </div>
+                      
+                      <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label col-md-6" for="mname">Address</label>
+                              <input id="address" type="text" class="form-control " name="mname" value="" required="" autocomplete="mname" autofocus="">
+                          </div>
+                        </div>
+
+                        <div class="d-flex flex-row align-items-center mb-2">
+                          <i class="fas fa-user fa-lg me-3 fa-fw"></i>
+                          <div class="form-outline flex-fill mb-0">
+                            <label class="form-label" for="lname">Course</label>
+                              <input id="course" type="text" class="form-control " name="lname" value="" required="" autocomplete="lname" autofocus="">
+                          </div>
+                        </div>
+
+                        <div class="d-flex flex-row align-items-center mb-2">
+                        <i class="fas fa-envelope fa-lg me-3 fa-fw"></i>
+                        <div class="form-outline flex-fill mb-0">
+                          <label class="form-label" for="name">Contact No.</label>
+                          <input id="contact-number" type="text" class="form-control " name="name" value="" required="" autocomplete="name" autofocus="">
+                        </div>
+                      </div>
+    
+                      <div class="d-flex flex-row align-items-center mb-2">
+                        <i class="fas fa-envelope fa-lg me-3 fa-fw"></i>
+                        <div class="form-outline flex-fill mb-0">
+                          <label class="form-label" for="email">Name of School</label>
+                          <input id="school" type="email" class="form-control " name="email" value="" required="" autocomplete="email">
+                        </div>
+                      </div>
+
+                      <div class="form-check d-flex justify-content-center mb-2">
+                        <input class="form-check-input me-2" type="checkbox" value="" id="terms" />
+                        <label class="form-check-label" for="terms">
+                          I agree all statements in <a href="#!">Terms of service</a>
+                        </label>
+                      </div>
+    
+                      <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                        <button type="button" class="btn btn-primary btn-lg">Register</button>
+                      </div>
+
+                    </form>
+    
+                  </div>
+      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+</body>
+</head>
+</html>

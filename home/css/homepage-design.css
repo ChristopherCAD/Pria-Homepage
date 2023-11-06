@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Glacial-Indifference';
+    src: url(GlacialIndifference-Regular.otf) format('opentype');
+}
+
+body {
+    font-family: 'Glacial-Indifference';
+}
+
+.navbar-container {
+    background-color: rgb(179, 255, 255, 0.5);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+.div-header {
+    /* background-image: url('../assets/imgs/PRIA-background.jpg'); */
+    height: 1000px;
+    width: 100%;
+    position: fixed;
+
+}
+
+.top-navbar {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    justify-content: space-between;
+}
+
+ul {
+    height: 65px;
+    list-style-type: none;
+    padding: 13px 0;
+    /* background-image: linear-gradient(-45deg, #76BA99, #CED89E, #ADCF9F, #CED89E, #ADCF9F,#76BA99); */
+    border-radius: 40px;
+
+}
+
+.pria-logo-img {
+    /* float: left; */
+    margin-left: 500px;
+    height: 70px;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a#homepage {
+    margin-left: 10px;
+    margin-top: 1000px;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 10px;
+}
+
+a:hover {
+
+    background-color: #3AB0FF;
+
+    font-size: 2px;
+    color: aquamarine;
+
+    border-radius: 5px;
+
+}
+
+
+#random {
+    font-family: 'Arial';
+}
